@@ -1,0 +1,2 @@
+cd G:\Chunfu\Chunfu_Udemy_Courses\Testing_Selenium_Java_Cucumber\CZ_Exercises\Selenium_Exercises\nopCommerceV2
+mvn clean install
