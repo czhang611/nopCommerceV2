@@ -1,1 +1,5 @@
 This is a test file.
+
+This file was created in the remote GitHub repository (first line).
+
+This file was then downloaded to the local git repository and changed locally.
